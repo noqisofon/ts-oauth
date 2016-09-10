@@ -49,3 +49,5 @@ jspm_packages
 
 # TypeScript
 *.js
+!index.js
+!test/*.js
